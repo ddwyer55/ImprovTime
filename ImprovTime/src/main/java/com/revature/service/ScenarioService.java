@@ -1,10 +1,12 @@
 package com.revature.service;
 
+import org.springframework.stereotype.Service;
+
 import com.revature.beans.Scenario;
 
 import com.revature.dao.ScenarioDAO;
 
-
+@Service
 public class ScenarioService {
 	ScenarioDAO sDAO;
 	

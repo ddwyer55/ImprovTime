@@ -12,7 +12,7 @@ public abstract class BaseBean {
 	}
 	
 	public String info() {
-		return name+"\n--"+description;
+		return name+"--"+description;
 	}
 
 	public int getId() {

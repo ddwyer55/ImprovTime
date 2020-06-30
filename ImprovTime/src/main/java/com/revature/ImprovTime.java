@@ -1,48 +1,32 @@
 package com.revature;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 
-import org.apache.log4j.Logger;
 
-import com.revature.beans.Person;
-import com.revature.beans.Scenario;
-import com.revature.beans.Setting;
-import com.revature.service.CharacterService;
-import com.revature.service.ScenarioService;
-import com.revature.service.SettingService;
-
+@SpringBootApplication
 public class ImprovTime {
-	static Logger log=Logger.getLogger(ImprovTime.class);
-	
-	
+
 	public static void main(String[] args) {
+		SpringApplication.run(ImprovTime.class, args);
 		
-		
-		
-		SettingService setServ=new SettingService();
-		ScenarioService scenServ=new ScenarioService();
-		CharacterService cServ=new CharacterService();
-		
-		Person c1=cServ.getCharacterById(randomNum(10));
-		Person c2;
-		do {
-			 c2=cServ.getCharacterById(randomNum(10));
-		}while(c2.getId()==c1.getId());
-		
-		Setting setting=setServ.getSettingById(randomNum(5));
-		Scenario scenario=scenServ.getScenarioById(randomNum(5));
-		
-		System.out.println("Characters:\n"+c1.info()+"\n"+c2.info());
-		System.out.println("\nSetting:\n"+setting.info());
-		System.out.println("\nScenario:\n"+scenario.info());
+	}
+	
+	@Bean
+	public WebMvcConfigurer corsConfigurer() {
+		return new WebMvcConfigurer() {
+			@Override
+			public void addCorsMappings(CorsRegistry registry) {
+				registry.addMapping("/**").allowedMethods("GET", "OPTIONS", "PUT", "POST", "PATCH", "DELETE")
+					.allowedOrigins("http://localhost:4200").allowedHeaders("*").allowCredentials(true);
+			}
+		};
 	}
 	
 	
-	
-	
-	public static int randomNum(int input) {
-		int random=(int)(Math.random()*input+1);
-		log.trace("random number: "+random);
-		return random;
-	}
+
 }

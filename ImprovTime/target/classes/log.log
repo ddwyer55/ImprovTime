@@ -6,3 +6,85 @@
 2020-06-29 16:17:15 TRACE ImprovTime:45 - random number: 7
 2020-06-29 16:17:15 TRACE ImprovTime:45 - random number: 1
 2020-06-29 16:17:15 TRACE ImprovTime:45 - random number: 1
+2020-06-29 16:18:10 TRACE ImprovTime:45 - random number: 8
+2020-06-29 16:18:10 TRACE ImprovTime:45 - random number: 2
+2020-06-29 16:18:10 TRACE ImprovTime:45 - random number: 3
+2020-06-29 16:18:10 TRACE ImprovTime:45 - random number: 1
+2020-06-29 16:18:50 TRACE ImprovTime:45 - random number: 8
+2020-06-29 16:18:50 TRACE ImprovTime:45 - random number: 2
+2020-06-29 16:18:50 TRACE ImprovTime:45 - random number: 4
+2020-06-29 16:18:50 TRACE ImprovTime:45 - random number: 2
+2020-06-29 16:18:59 TRACE ImprovTime:45 - random number: 1
+2020-06-29 16:18:59 TRACE ImprovTime:45 - random number: 5
+2020-06-29 16:18:59 TRACE ImprovTime:45 - random number: 3
+2020-06-29 16:18:59 TRACE ImprovTime:45 - random number: 1
+2020-06-29 16:19:05 TRACE ImprovTime:45 - random number: 1
+2020-06-29 16:19:05 TRACE ImprovTime:45 - random number: 10
+2020-06-29 16:19:05 TRACE ImprovTime:45 - random number: 4
+2020-06-29 16:19:05 TRACE ImprovTime:45 - random number: 2
+2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 6
+2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 1
+2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 5
+2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 5
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 3
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 1
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 2
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 4
+2020-06-30 13:48:13 TRACE MainController:51 - Characters:
+Doctor
+--A doctor with a 95% fatality rate.
+Police Officer
+--An everyday police officer.
+Setting:
+Wedding
+--At a relative's wedding.
+Scenario:
+Dinner Argument
+--The two characters are arguing over what to have for dinner.
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 6
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 6
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 6
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 5
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 2
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 3
+2020-06-30 13:48:25 TRACE MainController:51 - Characters:
+Water Polo Player
+--A semi-proffessional water polo player.
+Programmer
+--A programmer that only knows how to work with JavaScript.
+Setting:
+Wedding
+--At a relative's wedding.
+Scenario:
+Proposal
+--One of the characters is trying to propose to the other.
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 1
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 2
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 1
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 3
+2020-06-30 14:00:10 TRACE MainController:50 - Suggestion [character1=null, character2=Firefighter
+--A one-armed firefighter., scenario=Proposal
+--One of the characters is trying to propose to the other., setting=Baseball Game
+--At a minor league baseball game.]
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 6
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 6
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 8
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 4
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 5
+2020-06-30 14:00:32 TRACE MainController:50 - Suggestion [character1=null, character2=Waiter
+--A waiter who is allergic to most of the food he is serving., scenario=Selfie
+--The characters are attempting to get selfies to post on social media., setting=Swamp
+--At a swamp full of alligators.]
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 1
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 4
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 5
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 5
+2020-06-30 14:00:45 TRACE MainController:50 - Suggestion [character1=null, character2=Bartender
+--A bartender for a vegan bar., scenario=Selfie
+--The characters are attempting to get selfies to post on social media., setting=Mountain Peak
+--At the peak of Mount Everest.]
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 4
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 9
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 3
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 5
+2020-06-30 14:03:17 TRACE MainController:50 - Suggestion [character1=Bartender--A bartender for a vegan bar., character2=Drew Carey--As the host of 'Whose Line Is It Anyways?'., scenario=Selfie--The characters are attempting to get selfies to post on social media., setting=Funeral--At the funeral of character 1's father.]

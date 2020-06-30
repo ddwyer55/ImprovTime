@@ -1,10 +1,12 @@
 package com.revature.service;
 
 
+import org.springframework.stereotype.Service;
+
 import com.revature.beans.Setting;
 
 import com.revature.dao.SettingDAO;
-
+@Service
 public class SettingService {
 	SettingDAO sDAO;
 	

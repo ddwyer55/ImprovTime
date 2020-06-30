@@ -26,3 +26,121 @@
 2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 1
 2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 5
 2020-06-29 16:19:11 TRACE ImprovTime:45 - random number: 5
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 3
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 1
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 2
+2020-06-30 13:48:13 TRACE MainController:57 - random number: 4
+2020-06-30 13:48:13 TRACE MainController:51 - Characters:
+Doctor
+--A doctor with a 95% fatality rate.
+Police Officer
+--An everyday police officer.
+Setting:
+Wedding
+--At a relative's wedding.
+Scenario:
+Dinner Argument
+--The two characters are arguing over what to have for dinner.
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 6
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 6
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 6
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 5
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 2
+2020-06-30 13:48:25 TRACE MainController:57 - random number: 3
+2020-06-30 13:48:25 TRACE MainController:51 - Characters:
+Water Polo Player
+--A semi-proffessional water polo player.
+Programmer
+--A programmer that only knows how to work with JavaScript.
+Setting:
+Wedding
+--At a relative's wedding.
+Scenario:
+Proposal
+--One of the characters is trying to propose to the other.
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 1
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 2
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 1
+2020-06-30 14:00:10 TRACE MainController:56 - random number: 3
+2020-06-30 14:00:10 TRACE MainController:50 - Suggestion [character1=null, character2=Firefighter
+--A one-armed firefighter., scenario=Proposal
+--One of the characters is trying to propose to the other., setting=Baseball Game
+--At a minor league baseball game.]
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 6
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 6
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 8
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 4
+2020-06-30 14:00:32 TRACE MainController:56 - random number: 5
+2020-06-30 14:00:32 TRACE MainController:50 - Suggestion [character1=null, character2=Waiter
+--A waiter who is allergic to most of the food he is serving., scenario=Selfie
+--The characters are attempting to get selfies to post on social media., setting=Swamp
+--At a swamp full of alligators.]
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 1
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 4
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 5
+2020-06-30 14:00:45 TRACE MainController:56 - random number: 5
+2020-06-30 14:00:45 TRACE MainController:50 - Suggestion [character1=null, character2=Bartender
+--A bartender for a vegan bar., scenario=Selfie
+--The characters are attempting to get selfies to post on social media., setting=Mountain Peak
+--At the peak of Mount Everest.]
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 4
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 9
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 3
+2020-06-30 14:03:17 TRACE MainController:56 - random number: 5
+2020-06-30 14:03:17 TRACE MainController:50 - Suggestion [character1=Bartender--A bartender for a vegan bar., character2=Drew Carey--As the host of 'Whose Line Is It Anyways?'., scenario=Selfie--The characters are attempting to get selfies to post on social media., setting=Funeral--At the funeral of character 1's father.]
+2020-06-30 14:08:55 TRACE MainController:56 - random number: 6
+2020-06-30 14:08:55 TRACE MainController:56 - random number: 9
+2020-06-30 14:08:55 TRACE MainController:56 - random number: 1
+2020-06-30 14:08:55 TRACE MainController:56 - random number: 3
+2020-06-30 14:08:55 TRACE MainController:50 - Suggestion [character1=Water Polo Player--A semi-proffessional water polo player., character2=Drew Carey--As the host of 'Whose Line Is It Anyways?'., scenario=Proposal--One of the characters is trying to propose to the other., setting=Baseball Game--At a minor league baseball game.]
+2020-06-30 14:08:58 TRACE MainController:56 - random number: 2
+2020-06-30 14:08:58 TRACE MainController:56 - random number: 7
+2020-06-30 14:08:58 TRACE MainController:56 - random number: 2
+2020-06-30 14:08:58 TRACE MainController:56 - random number: 2
+2020-06-30 14:08:58 TRACE MainController:50 - Suggestion [character1=Firefighter--A one-armed firefighter., character2=Nascar Driver--A nascar driver with a pet cougar., scenario=Rock, Paper, Scissors Match--The two characters are having a heated rock, paper, scissors match., setting=Wedding--At a relative's wedding.]
+2020-06-30 14:09:02 TRACE MainController:56 - random number: 9
+2020-06-30 14:09:02 TRACE MainController:56 - random number: 2
+2020-06-30 14:09:02 TRACE MainController:56 - random number: 2
+2020-06-30 14:09:02 TRACE MainController:56 - random number: 1
+2020-06-30 14:09:02 TRACE MainController:50 - Suggestion [character1=Drew Carey--As the host of 'Whose Line Is It Anyways?'., character2=Firefighter--A one-armed firefighter., scenario=Searching for someone--Character 1 is searching for there long lost father., setting=Wedding--At a relative's wedding.]
+2020-06-30 14:09:14 TRACE MainController:56 - random number: 7
+2020-06-30 14:09:14 TRACE MainController:56 - random number: 8
+2020-06-30 14:09:14 TRACE MainController:56 - random number: 5
+2020-06-30 14:09:14 TRACE MainController:56 - random number: 2
+2020-06-30 14:09:14 TRACE MainController:50 - Suggestion [character1=Nascar Driver--A nascar driver with a pet cougar., character2=Waiter--A waiter who is allergic to most of the food he is serving., scenario=Rock, Paper, Scissors Match--The two characters are having a heated rock, paper, scissors match., setting=Mountain Peak--At the peak of Mount Everest.]
+2020-06-30 14:09:17 TRACE MainController:56 - random number: 8
+2020-06-30 14:09:17 TRACE MainController:56 - random number: 6
+2020-06-30 14:09:17 TRACE MainController:56 - random number: 4
+2020-06-30 14:09:17 TRACE MainController:56 - random number: 2
+2020-06-30 14:09:17 TRACE MainController:50 - Suggestion [character1=Waiter--A waiter who is allergic to most of the food he is serving., character2=Water Polo Player--A semi-proffessional water polo player., scenario=Rock, Paper, Scissors Match--The two characters are having a heated rock, paper, scissors match., setting=Swamp--At a swamp full of alligators.]
+2020-06-30 14:09:19 TRACE MainController:56 - random number: 1
+2020-06-30 14:09:19 TRACE MainController:56 - random number: 7
+2020-06-30 14:09:19 TRACE MainController:56 - random number: 2
+2020-06-30 14:09:19 TRACE MainController:56 - random number: 2
+2020-06-30 14:09:19 TRACE MainController:50 - Suggestion [character1=Police Officer--An everyday police officer., character2=Nascar Driver--A nascar driver with a pet cougar., scenario=Rock, Paper, Scissors Match--The two characters are having a heated rock, paper, scissors match., setting=Wedding--At a relative's wedding.]
+2020-06-30 14:09:22 TRACE MainController:56 - random number: 8
+2020-06-30 14:09:22 TRACE MainController:56 - random number: 6
+2020-06-30 14:09:22 TRACE MainController:56 - random number: 4
+2020-06-30 14:09:22 TRACE MainController:56 - random number: 5
+2020-06-30 14:09:22 TRACE MainController:50 - Suggestion [character1=Waiter--A waiter who is allergic to most of the food he is serving., character2=Water Polo Player--A semi-proffessional water polo player., scenario=Selfie--The characters are attempting to get selfies to post on social media., setting=Swamp--At a swamp full of alligators.]
+2020-06-30 14:09:42 TRACE MainController:56 - random number: 1
+2020-06-30 14:09:42 TRACE MainController:56 - random number: 1
+2020-06-30 14:09:42 TRACE MainController:56 - random number: 7
+2020-06-30 14:09:42 TRACE MainController:56 - random number: 5
+2020-06-30 14:09:42 TRACE MainController:56 - random number: 3
+2020-06-30 14:09:42 TRACE MainController:50 - Suggestion [character1=Police Officer--An everyday police officer., character2=Nascar Driver--A nascar driver with a pet cougar., scenario=Proposal--One of the characters is trying to propose to the other., setting=Mountain Peak--At the peak of Mount Everest.]
+2020-06-30 14:12:02 TRACE MainController:56 - random number: 7
+2020-06-30 14:12:02 TRACE MainController:56 - random number: 2
+2020-06-30 14:12:02 TRACE MainController:56 - random number: 2
+2020-06-30 14:12:02 TRACE MainController:56 - random number: 1
+2020-06-30 14:12:02 TRACE MainController:50 - Suggestion [character1=BaseBean [id=7, name=Nascar Driver, description=A nascar driver with a pet cougar.], character2=BaseBean [id=2, name=Firefighter, description=A one-armed firefighter.], scenario=BaseBean [id=1, name=Searching for someone, description=Character 1 is searching for there long lost father.], setting=BaseBean [id=2, name=Wedding, description=At a relative's wedding.]]
+2020-06-30 14:12:19 TRACE MainController:56 - random number: 2
+2020-06-30 14:12:19 TRACE MainController:56 - random number: 9
+2020-06-30 14:12:19 TRACE MainController:56 - random number: 1
+2020-06-30 14:12:19 TRACE MainController:56 - random number: 3
+2020-06-30 14:12:19 TRACE MainController:50 - Suggestion [character1=BaseBean [id=2, name=Firefighter, description=A one-armed firefighter.], character2=BaseBean [id=9, name=Drew Carey, description=As the host of 'Whose Line Is It Anyways?'.], scenario=BaseBean [id=3, name=Proposal, description=One of the characters is trying to propose to the other.], setting=BaseBean [id=1, name=Baseball Game, description=At a minor league baseball game.]]
+2020-06-30 14:12:27 TRACE MainController:56 - random number: 1
+2020-06-30 14:12:27 TRACE MainController:56 - random number: 5
+2020-06-30 14:12:27 TRACE MainController:56 - random number: 5
+2020-06-30 14:12:27 TRACE MainController:56 - random number: 4
+2020-06-30 14:12:27 TRACE MainController:50 - Suggestion [character1=BaseBean [id=1, name=Police Officer, description=An everyday police officer.], character2=BaseBean [id=5, name=Programmer, description=A programmer that only knows how to work with JavaScript.], scenario=BaseBean [id=4, name=Dinner Argument, description=The two characters are arguing over what to have for dinner.], setting=BaseBean [id=5, name=Mountain Peak, description=At the peak of Mount Everest.]]
